@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "umpsa",
+  "source_name": "Perpustakaan Universiti Malaysia Pahang Al-Sultan Abdullah",
+  "source_base_url": "https://efind.ump.edu.my/",
+  "terms_url": "https://library.umpsa.edu.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "umpsa-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T15-15-14Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T15:16:26.931Z",
+  "finished_at": "2026-10-17T15:16:26.931Z",
+  "record_count": 500,
+  "error_count": 0,
+  "status": "complete",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/umpsa; contact@pustakaterbuka.org)",
+  "notes": "UMPSA harvest completed. Total: 500 records."
+}
